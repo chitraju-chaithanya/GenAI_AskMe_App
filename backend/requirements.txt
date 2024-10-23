@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+psycopg2-binary
+python-multipart
+openai>=1.0.0
+python-dotenv
+pgvector
+PyPDF2
+python-magic
+
+
+
