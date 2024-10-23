@@ -1,1 +1,1 @@
-# GenAI_Q-A_APP
+# GenAI_AskMe_App
